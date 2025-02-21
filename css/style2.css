@@ -1,0 +1,23 @@
+/* Created by: Domenic dangelo
+* Created on: feb 2025
+* This file contains the CSS for index2.html
+*/
+.mdl-layout__content {
+padding-left: 15pt;
+padding-right: 15pt;
+padding-top: 15pt;
+}
+/* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
+*/
+
+body {
+background-color: rgb(191, 255, 157);
+}
+
+.mdl-layout-title {
+    color: rgb(0, 0, 0);
+}
+
+.demo-list-icon {
+width: 300px;
+}
